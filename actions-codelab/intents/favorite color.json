@@ -1,0 +1,43 @@
+{
+  "id": "3d47c994-e5ff-42db-88fa-03b3644a171e",
+  "name": "favorite color",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ec09094c-4456-4065-afec-dd652bbf5d40",
+          "required": true,
+          "dataType": "@sys.color",
+          "name": "color",
+          "value": "$color",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "I\u0027m sorry, what was your favorite color?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540762569,
+  "fallbackIntent": false,
+  "events": []
+}

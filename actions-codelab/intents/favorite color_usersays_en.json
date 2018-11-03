@@ -1,0 +1,124 @@
+[
+  {
+    "id": "2b7164a2-9798-45c7-a8f9-a960b8251b06",
+    "data": [
+      {
+        "text": "Blue",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      },
+      {
+        "text": " is my favorite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540762569
+  },
+  {
+    "id": "47cd6b37-1994-4431-9619-1bf17f5645e0",
+    "data": [
+      {
+        "text": "i really like ",
+        "userDefined": false
+      },
+      {
+        "text": "teal",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540762569
+  },
+  {
+    "id": "ed18684e-85f0-4d4a-b39e-b8193cf54d18",
+    "data": [
+      {
+        "text": "my favorite color is ",
+        "userDefined": false
+      },
+      {
+        "text": "green",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540762569
+  },
+  {
+    "id": "47e5153b-82de-4d8d-b28d-9c072c0ccb96",
+    "data": [
+      {
+        "text": "Pink",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540762569
+  },
+  {
+    "id": "c6781659-9072-436e-b6d7-20c9ca80f4e3",
+    "data": [
+      {
+        "text": "i love ",
+        "userDefined": false
+      },
+      {
+        "text": "yellow",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540762569
+  },
+  {
+    "id": "19c7eb90-52e5-44d7-a1e3-ecd81bcf5dab",
+    "data": [
+      {
+        "text": "black",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      },
+      {
+        "text": " is my favorite color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540762569
+  },
+  {
+    "id": "4d931aa8-5c5c-419d-8cca-b159df52b8c1",
+    "data": [
+      {
+        "text": "purple",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      },
+      {
+        "text": " is my favorite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540762569
+  }
+]
